@@ -6,8 +6,13 @@ To run the code simply put the the files ChessGame.py, ChessClasses.py and the f
 
 Libraries needed :
 -pygame
+
 -math
+
 -sys
+
 -random
+
 -numpy
+
 -fnmatch
