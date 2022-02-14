@@ -5,6 +5,7 @@ On the right of the screen all moves will be printed out in standard algebraic n
 To run the code simply put the the files ChessGame.py, ChessClasses.py and the folder Chess_pieces into a common folder. Simply running the ChessGame.py file should start up the game in another window. 
 
 Libraries needed :
+
 -pygame
 
 -math
